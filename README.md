@@ -1,10 +1,10 @@
 # FedEx Delivery Prediction using Machine Learning
 
-# Project Overview : 
+## Project Overview: 
 This project focuses on analyzing shipment data and building a machine learning model to predict whether a delivery will be on-time or delayed. It includes complete steps from Exploratory Data Analysis (EDA) to data preprocessing and model building using classification algorithms.
 
-# Dataset : 
+## Dataset : 
 The dataset used in this project is sourced from Kaggle.
 
-# Link :
+**Link:**
 https://www.kaggle.com/datasets/vasudevmaduri/fedexdata
